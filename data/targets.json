@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Target Alpha",
+    "location": "Kerala",
+    "device": "iPhone 14",
+    "lastActive": "2025-07-06T21:00:00"
+  },
+  {
+    "name": "Target Beta",
+    "location": "Dubai",
+    "device": "Android",
+    "lastActive": "2025-07-06T22:15:00"
+  }
+]
